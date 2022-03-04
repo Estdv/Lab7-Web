@@ -1,0 +1,11 @@
+/*!****************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./PPolicia.css ***!
+  \****************************************************************/
+/* Use the variables */
+.texto {
+  color: #ccdf25;
+}
+
+.fondo {
+  background-color: #2b1deb;
+}

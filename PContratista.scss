@@ -1,0 +1,11 @@
+$bgcolor: rgb(196, 99, 21);
+$textcolor: rgb(221, 203, 40);
+
+/* Use the variables */
+.texto {
+  color: $textcolor;
+}
+
+.fondo {
+  background-color: $bgcolor;
+}

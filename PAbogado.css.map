@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAGA,uBAAuB;AACvB,AAAA,MAAM,CAAC;EACL,KAAK,EAJK,OAAiB;CAK5B;;AAED,AAAA,MAAM,CAAC;EACL,gBAAgB,EATR,OAAe;CAUxB",
+    "sources": [
+        "PAbogado.scss"
+    ],
+    "names": [],
+    "file": "PAbogado.css"
+}

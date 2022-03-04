@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAGA,uBAAuB;AACvB,AAAA,MAAM,CAAC;EACL,KAAK,EAJK,OAAiB;CAK5B;;AAED,AAAA,MAAM,CAAC;EACL,gBAAgB,EATR,OAAgB;CAUzB",
+    "sources": [
+        "PContratista.scss"
+    ],
+    "names": [],
+    "file": "PContratista.css"
+}

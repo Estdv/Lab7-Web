@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAGA,uBAAuB;AACvB,AAAA,MAAM,CAAC;EACL,KAAK,EAJK,KAAY;CAKvB;;AAED,AAAA,MAAM,CAAC;EACL,gBAAgB,EATR,OAAgB;CAUzB",
+    "sources": [
+        "Villano.scss"
+    ],
+    "names": [],
+    "file": "Villano.css"
+}

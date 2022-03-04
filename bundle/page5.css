@@ -1,0 +1,11 @@
+/*!********************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./PContratista.css ***!
+  \********************************************************************/
+/* Use the variables */
+.texto {
+  color: #ddcb28;
+}
+
+.fondo {
+  background-color: #c46315;
+}

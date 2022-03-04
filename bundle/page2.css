@@ -1,0 +1,11 @@
+/*!****************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./PAbogado.css ***!
+  \****************************************************************/
+/* Use the variables */
+.texto {
+  color: #cfc143;
+}
+
+.fondo {
+  background-color: #641f03;
+}

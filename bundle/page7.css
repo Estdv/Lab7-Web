@@ -1,0 +1,11 @@
+/*!***************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./Reunion.css ***!
+  \***************************************************************/
+/* Use the variables */
+.texto {
+  color: white;
+}
+
+.fondo {
+  background-color: black;
+}
