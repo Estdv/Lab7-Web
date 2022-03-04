@@ -1,5 +1,6 @@
 import "./PPolicia.css"
 import foto from './Poim.jpg'
+import { Structure } from "./PPolicia2.js";
 window.onload = function () {
 
     document.body.className = "fondo"
@@ -56,9 +57,7 @@ window.onload = function () {
                 orli.appendChild(li4)
                     li4.appendChild(a4)
 
-        var desp = document.createElement("p")
-        desp.innerHTML="Si ya termino de leer todos, puede seguir con la historia"
-        princ.appendChild(desp)
+        princ.appendChild(Structure())
 
         var urli = document.createElement("ul")
         princ.appendChild(urli)
