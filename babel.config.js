@@ -17,7 +17,7 @@ const plugins = [
         "@babel/plugin-proposal-json-strings",
         "@babel/plugin-proposal-unicode-property-regex",
         {
-            "plugins": ["@babel/plugin-proposal-json-strings", "@babel/plugin-proposal-unicode-property-regex"]
+            "plugins": ["@babel/plugin-proposal-json-strings", "@babel/plugin-proposal-unicode-property-regex", "@babel/plugin-transform-runtime"]
         },
     ],
 
